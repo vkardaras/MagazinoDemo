@@ -13,7 +13,6 @@ class LoginViewController: UIViewController {
         didSet {
            userTextField.tintColor = UIColor.lightGray
            userTextField.backgroundColor = UIColor.white
-            userTextField.text = "TH1234"
         }
      }
     
@@ -21,7 +20,6 @@ class LoginViewController: UIViewController {
         didSet {
            passTextField.tintColor = UIColor.lightGray
            passTextField.backgroundColor = UIColor.white
-            passTextField.text = "3NItas1!"
         }
      }
     
